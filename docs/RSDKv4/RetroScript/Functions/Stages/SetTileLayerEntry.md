@@ -29,5 +29,6 @@ SetTileLayerEntry(int value, int layer, int chunkX, int chunkY)
 
 ## Example
 ```
+// Sets the ID of the chunk at position (24, 96) on the foreground layer to chunk ID 35
 SetTileLayerEntry(35, 0, 24, 96)
 ```

@@ -21,5 +21,9 @@ Abs(var value)
 ## Example
 
 ```
-Abs(object.value3)
+temp0 = -10
+Abs(temp0) // temp0 is now positive 10
+
+temp0 = 120
+Abs(temp0) // temp0 is left unaffected and remains 120
 ```

@@ -33,5 +33,6 @@ GetTileLayerEntry(var Store, int Layer, int ChunkX, int ChunkY)
 ## Example
 
 ```
+// Fetches the ID of the chunk at position (24, 96) on the foreground layer, and stores it in Object.Value2
 GetTileLayerEntry(Object.Value2, 0, 24, 96)
 ```
